@@ -1,5 +1,6 @@
 # Public-Healthcare-Database-System
-## Using MySQL we created a database for all the medical facilities in Montreal (all employee and facility information were made up by us to demonstrate the database and GUI). 
+## Using MySQL we created a database for all the medical facilities in Montreal 
+*(all employee and facility information were made up by us to demonstrate the database and GUI). 
 ### The following UML diagram shows the design of our database.
 
 ![image](https://github.com/zitatorocsik/Public-Healthcare-Database-System/assets/30054142/eb3bd1dd-6d98-4ac6-9d6e-46c0ad86b4f6)
